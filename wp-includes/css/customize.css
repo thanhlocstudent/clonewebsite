@@ -40220,7 +40220,7 @@
     -moz-background-clip: padding;
     border-top-left-radius: 12px;
     background-clip: padding-box;
-    margin: -30px -30px 0;
+    margin: -30px -28px 0;
     position: relative;
   }
   .services-sc.layout-slider article .header:after {
@@ -40259,7 +40259,6 @@
     color: var(--main);
     font-size: 18px;
     display: inline-block;
-    width: 49.5%;
     padding: 30px 40px;
     margin: 0;
   }
@@ -40281,7 +40280,7 @@
   .services-sc.layout-slider article dl dt,
   .services-sc.layout-slider article dl dd {
     display: inline-block;
-    width: 50%;
+    width: 45%;
     padding: 14px 4px;
   }
   .services-sc.layout-slider article dl dt:not(:last-of-type),
